@@ -14,8 +14,8 @@ Winning Condition: The first player to reach the winning score (default: 5) is d
 Technologies Used 🛠️
 HTML5 Canvas: For rendering the game elements and animations.
 JavaScript: Core game logic and interactivity.
-CSS: To create an aesthetically pleasing design and layout.
+CSS: To create an aesthetically pleasing design and layout.\
+
 Contributing 🤝
 We welcome contributions to further improve the game! Feel free to fork the repository and create pull requests with your enhancements or bug fixes.
 
-License 📜
