@@ -39,8 +39,7 @@ Welcome to the **Enhanced Pong Game**! Dive into the timeless classic with a mod
 ## 🚀 How to Play
 
 1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/enhanced-pong-game.git
+   `git clone https://github.com/your-username/enhanced-pong-game.git`
 2. Open the `index.html` file in your favorite browser.
 3. Enjoy the game and challenge your friends!
 
