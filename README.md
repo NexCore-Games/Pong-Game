@@ -49,11 +49,11 @@ Welcome to the **Enhanced Pong Game**! Dive into the timeless classic with a mod
 
 1. Fork the repository.
 2. Create a feature branch:
-    git checkout -b feature-name   
+   `git checkout -b feature-name`   
 3. Commit your changes:
-    git commit -m "Add a cool feature"
+    `git commit -m "Add a cool feature`
 4. Push to the branch:
-    git push origin feature-name
+    `git push origin feature-name`
 5. Open a Pull Request.
 
 ## 🎉 Acknowledgments
